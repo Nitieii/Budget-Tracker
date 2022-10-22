@@ -11,7 +11,8 @@ import {
 
 import {StackNavigate} from '~/navigate';
 import {DefaultTheme, NavigationContainer} from '@react-navigation/native';
-import {Transaction} from '~/screens';
+
+import {COLORS, FONTS, screens, SIZES} from '~/constants';
 
 const theme = {
   ...DefaultTheme,

@@ -10,7 +10,7 @@ export const COLORS = {
   black: '#000000',
   white: '#ffffff',
   lightGray: '#f5f7f9',
-  lightGray2: '#fafbfd',
+  lightGray2: '#f6f6f6',
   gray: '#6a6a6a',
   blue: '#42b0ff',
   darkgray: '#898c95',
@@ -49,14 +49,14 @@ export const SIZES = {
 
 export const FONTS = {
   largeTitle: {
-    fontFamily: 'GTWalsheimPro-Black',
+    fontFamily: 'GTWalsheimPro-Bold',
     fontSize: SIZES.largeTitle,
     lineHeight: 55,
   },
   h1: {fontFamily: 'GTWalsheimPro-Bold', fontSize: SIZES.h1, lineHeight: 36},
   h2: {fontFamily: 'GTWalsheimPro-Bold', fontSize: SIZES.h2, lineHeight: 30},
-  h3: {fontFamily: 'GTWalsheimPro-Bold', fontSize: SIZES.h3, lineHeight: 22},
-  h4: {fontFamily: 'GTWalsheimPro-Bold', fontSize: SIZES.h4, lineHeight: 22},
+  h3: {fontFamily: 'GTWalsheimPro-Medium', fontSize: SIZES.h3, lineHeight: 22},
+  h4: {fontFamily: 'GTWalsheimPro-Medium', fontSize: SIZES.h4, lineHeight: 22},
   body1: {
     fontFamily: 'GTWalsheimPro-Regular',
     fontSize: SIZES.body1,

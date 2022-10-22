@@ -1,21 +1,21 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import {FONTS, SIZES, COLORS} from '../../constants';
+import {FONTS, SIZES, COLORS} from '~/constants';
+import {hasNotch} from 'react-native-device-info';
 
 const Header = props => {
-  const {title, leftComponent, rightComponent, titleStyle, containerStyle} =
+  const {title, rightComponent, titleStyle, containerStyle} =
     props;
   return (
-    <View style={[styles.container, containerStyle]}>
-      <View style={{flex: 1, alignItems: 'flex-start'}}>{leftComponent}</View>
+    <View style={[styles.container(hasNotch), containerStyle]}>
       <View
         style={{
           flex: 5,
-          alignItems: 'center',
+          alignItems: 'flex-start',
         }}>
         <Text
           style={{
-            fontSize: SIZES.h1,
+            fontSize: SIZES.h2,
             fontWeight: 'bold',
             color: COLORS.white,
             ...titleStyle,
@@ -32,12 +32,13 @@ const Header = props => {
 export default Header;
 
 const styles = StyleSheet.create({
-  container: {
+  container: hasNotch => ({
     flexDirection: 'row',
     // backgroundColor: "red",
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
     paddingHorizontal: SIZES.padding,
-    marginTop: Platform.OS === 'ios' ? 20 : 0,
-  },
+    marginTop: hasNotch ? SIZES.radius * 4 : SIZES.radius,
+    marginBottom: SIZES.radius * 2,
+  }),
 });

@@ -37,6 +37,26 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string/>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -46,65 +66,14 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-	<key>UIAppFonts</key>
-	<array>
-		<string>GTWalsheimPro-Black.ttf</string>
-		<string>GTWalsheimPro-BlackOblique.ttf</string>
-		<string>GTWalsheimPro-Bold.ttf</string>
-		<string>GTWalsheimPro-BoldOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedBlack.ttf</string>
-		<string>GTWalsheimPro-CondensedBlackOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedBold.ttf</string>
-		<string>GTWalsheimPro-CondensedBoldOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedLight.ttf</string>
-		<string>GTWalsheimPro-CondensedLightOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedMedium.ttf</string>
-		<string>GTWalsheimPro-CondensedMediumOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedRegular.ttf</string>
-		<string>GTWalsheimPro-CondensedRegularOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedThin.ttf</string>
-		<string>GTWalsheimPro-CondensedThinOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedUltraBold.ttf</string>
-		<string>GTWalsheimPro-CondensedUltraBoldOblique.ttf</string>
-		<string>GTWalsheimPro-CondensedUltraLight.ttf</string>
-		<string>GTWalsheimPro-CondensedUltraLightOblique.ttf</string>
-		<string>GTWalsheimPro-Light.ttf</string>
-		<string>GTWalsheimPro-LightOblique.ttf</string>
-		<string>GTWalsheimPro-Medium.ttf</string>
-		<string>GTWalsheimPro-MediumOblique.ttf</string>
-		<string>GTWalsheimPro-Regular.ttf</string>
-		<string>GTWalsheimPro-RegularOblique.ttf</string>
-		<string>GTWalsheimPro-Thin.ttf</string>
-		<string>GTWalsheimPro-ThinOblique.ttf</string>
-		<string>GTWalsheimPro-UltraBold.ttf</string>
-		<string>GTWalsheimPro-UltraBoldOblique.ttf</string>
-		<string>GTWalsheimPro-UltraLight.ttf</string>
-		<string>GTWalsheimPro-UltraLightOblique.ttf</string>
-	</array>
-
-	<key>UIAppFonts</key>
-	<array>
-			<string>AntDesign.ttf</string>
-			<string>Entypo.ttf</string>
-			<string>EvilIcons.ttf</string>
-			<string>Feather.ttf</string>
-			<string>FontAwesome.ttf</string>
-			<string>FontAwesome5_Brands.ttf</string>
-			<string>FontAwesome5_Regular.ttf</string>
-			<string>FontAwesome5_Solid.ttf</string>
-			<string>Foundation.ttf</string>
-			<string>Ionicons.ttf</string>
-			<string>MaterialIcons.ttf</string>
-			<string>MaterialCommunityIcons.ttf</string>
-			<string>SimpleLineIcons.ttf</string>
-			<string>Octicons.ttf</string>
-			<string>Zocial.ttf</string>
-			<string>Fontisto.ttf</string>
-	</array>
 </dict>
 </plist>

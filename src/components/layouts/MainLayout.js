@@ -9,7 +9,7 @@ const MainLayout = ({children, title, headerProps, loading, titleStyle}) => {
     <View
       style={{
         flex: 1,
-        backgroundColor: COLORS.white,
+        backgroundColor: COLORS.lightGray2,
       }}>
       {/* {loading ? <LoadingScreen /> : null} */}
       <Header title={title} {...headerProps} titleStyle={titleStyle} />
