@@ -1,0 +1,133 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Black.ttf",
+      "sha1": "d1a549c622bd49d99fb2d7f16f73711c18ef9011"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-BlackOblique.ttf",
+      "sha1": "cf8efafed648c62b4c22b00955672582e5d4b444"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Bold.ttf",
+      "sha1": "5cb890f35454069a283b30eb05ce3f216d65ff18"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-BoldOblique.ttf",
+      "sha1": "c4e1b761014e1cc33d2f2e14b2ed2c6eb4c51a3b"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedBlack.ttf",
+      "sha1": "2fafd1d0b75e5e7e3f8df8ff957e2e6b69829432"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedBlackOblique.ttf",
+      "sha1": "5a2d146744401765ef60825d7266d9dbcace841c"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedBold.ttf",
+      "sha1": "355002330320df2e42520b9e2956370a36a8cad4"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedBoldOblique.ttf",
+      "sha1": "5d5ee9dea03a09e7ab265bdb277d3f7a13268113"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedLight.ttf",
+      "sha1": "44f982f0cd1eff5c71b4f09ab1150bea5acf6398"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedLightOblique.ttf",
+      "sha1": "64b5f684484f620173c1ad4f97cdebf7002d524e"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedMedium.ttf",
+      "sha1": "10b493e45ec3a6e66f2ade7d5e08c7640d13c75c"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedMediumOblique.ttf",
+      "sha1": "7cdd4fd39f5094fe5472ad20f696638b81b140f5"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedRegular.ttf",
+      "sha1": "3509d287fb2e00f3f005f11e584c3ea25ee4a2bf"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedRegularOblique.ttf",
+      "sha1": "79202bdcbb5a7c68e8bda5f4e6a89712bbab892f"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedThin.ttf",
+      "sha1": "f5d6398a49bb24d9bf2ba333c8024468704a5989"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedThinOblique.ttf",
+      "sha1": "a70fb0f9a2a761305cfb2bce03bcc37c38b3f802"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraBold.ttf",
+      "sha1": "f01f52b06cdb24f7976259a515e14330fe65c4c4"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraBoldOblique.ttf",
+      "sha1": "719c2075732635f0d287209c4c276454562b5a1f"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraLight.ttf",
+      "sha1": "e73a6219c8fda9f7200eaac5089426821312864c"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraLightOblique.ttf",
+      "sha1": "fb881abe5bd73d654f25dd78c8b5ca684684043f"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Light.ttf",
+      "sha1": "7dcbd11c3c5089e270ef91bdcf2a07bc370205e7"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-LightOblique.ttf",
+      "sha1": "be62fc94fafdff60a1b6af8bcae6dd43b8d9fa75"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Medium.ttf",
+      "sha1": "ad1877fb65fc6cc7e0f0f4a087c09842b9836f05"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-MediumOblique.ttf",
+      "sha1": "8827dc75bfd745fda574bf8ebaa7cae5e3f26a1e"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Regular.ttf",
+      "sha1": "03b3aec5e961aa91f360aac8d990d456bbca0b5a"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-RegularOblique.ttf",
+      "sha1": "6e919c6ee1278062ec69d93dc09ffb8642d73572"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-Thin.ttf",
+      "sha1": "6b32c841749c0dc4f278ac21527cd5fcdac31253"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-ThinOblique.ttf",
+      "sha1": "05862db34a882310984c4b258cab8198b58b2124"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-UltraBold.ttf",
+      "sha1": "7011e2410ba4f3a1e5636f8e20144d8aa3ce978c"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-UltraBoldOblique.ttf",
+      "sha1": "b000df6da668f32bdc6a032240276e0ce12f455d"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-UltraLight.ttf",
+      "sha1": "50bfb8c64d722dcb5b18acef3d60b6a54989186e"
+    },
+    {
+      "path": "src/assets/fonts/GTWalsheimPro-UltraLightOblique.ttf",
+      "sha1": "585ebc7a4bddd683e211e77d290e417711f443cb"
+    }
+  ]
+}
