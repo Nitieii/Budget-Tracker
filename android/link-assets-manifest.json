@@ -2,132 +2,520 @@
   "migIndex": 1,
   "data": [
     {
-      "path": "src/assets/fonts/GTWalsheimPro-Black.ttf",
+      "path": "fonts/GTWalsheimPro-Black.eot",
+      "sha1": "db91fb346bb77b476fd8b011bca0f9027975d407"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Black.ttf",
       "sha1": "d1a549c622bd49d99fb2d7f16f73711c18ef9011"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-BlackOblique.ttf",
+      "path": "fonts/GTWalsheimPro-Black.woff",
+      "sha1": "bd684c84252a679cec6c982fd00466c0839807cd"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Black.woff2",
+      "sha1": "c6d712f5bc4c41a5e87e0dd08ce4e40008c7a5a2"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-BlackOblique.eot",
+      "sha1": "8c7061846accddd1ff761a2b73f100485e561a13"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-BlackOblique.ttf",
       "sha1": "cf8efafed648c62b4c22b00955672582e5d4b444"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-Bold.ttf",
+      "path": "fonts/GTWalsheimPro-BlackOblique.woff",
+      "sha1": "f3c92f96f969cc474c5b4f54c8c7702f514c3a03"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-BlackOblique.woff2",
+      "sha1": "d4b3a0137e7197dbd8761d319421ac591a3af8a5"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Bold.eot",
+      "sha1": "686356cbf31b4c517d8b664adfd484144cfccb58"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Bold.ttf",
       "sha1": "5cb890f35454069a283b30eb05ce3f216d65ff18"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-BoldOblique.ttf",
+      "path": "fonts/GTWalsheimPro-Bold.woff",
+      "sha1": "a6c93c97b79295d9c6215f84ba1a6b25e5faafbc"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Bold.woff2",
+      "sha1": "f4631ab40a09e111fbc268c98ffcef02eec3d107"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-BoldOblique.eot",
+      "sha1": "909c79524c0f7ce9f2b7bcf513de9b6fb462ca38"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-BoldOblique.ttf",
       "sha1": "c4e1b761014e1cc33d2f2e14b2ed2c6eb4c51a3b"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedBlack.ttf",
+      "path": "fonts/GTWalsheimPro-BoldOblique.woff",
+      "sha1": "856dd5dfb79477cc03c022eb9af393cdd7532456"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-BoldOblique.woff2",
+      "sha1": "30e344b4fce70789b1f0104d86301621b8ffbd94"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBlack.eot",
+      "sha1": "f18b9abaa66a9fd401289f24aa85f1e745be282f"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBlack.ttf",
       "sha1": "2fafd1d0b75e5e7e3f8df8ff957e2e6b69829432"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedBlackOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedBlack.woff",
+      "sha1": "44650c32497f97f66f59ab3c5da1814872f563cf"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBlack.woff2",
+      "sha1": "47b846900eb9dbe4bd2e877759821a4b05fcf2c5"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBlackOblique.eot",
+      "sha1": "b2bb1081d8cc4216bee0401ec945b67b4b0a97ec"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBlackOblique.ttf",
       "sha1": "5a2d146744401765ef60825d7266d9dbcace841c"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedBold.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedBlackOblique.woff",
+      "sha1": "57a2fdc92f9b8a4cc9f032a6858b3638bdfbbd24"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBlackOblique.woff2",
+      "sha1": "d1d562e522c93d04bda5e99ff536b7723d794a94"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBold.eot",
+      "sha1": "0ee96de054f851006d69511e16a894192e5fd044"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBold.ttf",
       "sha1": "355002330320df2e42520b9e2956370a36a8cad4"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedBoldOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedBold.woff",
+      "sha1": "54c9ec3eb6cb656822ee43deea6355f47e457fb2"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBold.woff2",
+      "sha1": "03936c58975b8497427178235821ed502e8d100e"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBoldOblique.eot",
+      "sha1": "655b2ad96841365633ed52c1d20330ca767759a4"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBoldOblique.ttf",
       "sha1": "5d5ee9dea03a09e7ab265bdb277d3f7a13268113"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedLight.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedBoldOblique.woff",
+      "sha1": "2aed941ad36ce85555b1a2e4bd42f2702a25511e"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedBoldOblique.woff2",
+      "sha1": "c0f0b9cdffb6f9a1d6e93f99e2ae35a010e704dc"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedLight.eot",
+      "sha1": "68dae4e6d9ac7ac29e9193e4de2c40be3afd210d"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedLight.ttf",
       "sha1": "44f982f0cd1eff5c71b4f09ab1150bea5acf6398"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedLightOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedLight.woff",
+      "sha1": "c78dcc1f81fefcde5297fde0dd4a7c024c0f2a0d"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedLight.woff2",
+      "sha1": "f4a3aa106d1466b896ec805b66f4db36a6ac63a5"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedLightOblique.eot",
+      "sha1": "9ac959ecfcfa0f7567a0e848d928690c9914f131"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedLightOblique.ttf",
       "sha1": "64b5f684484f620173c1ad4f97cdebf7002d524e"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedMedium.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedLightOblique.woff",
+      "sha1": "8c4f436fd24331bb6cd3af76937e14a8700a0317"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedLightOblique.woff2",
+      "sha1": "d930ef48cf6effde23212c8699982532525582dd"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedMedium.eot",
+      "sha1": "0815470a993628363f9d931e339d228b8d492b23"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedMedium.ttf",
       "sha1": "10b493e45ec3a6e66f2ade7d5e08c7640d13c75c"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedMediumOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedMedium.woff",
+      "sha1": "e9a5bf3bd225e0f24fa3281abfd7ced4f05fa041"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedMedium.woff2",
+      "sha1": "4beef4733b45bf89e0c3cac3b55e32711746372e"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedMediumOblique.eot",
+      "sha1": "fce8986763d796d4e698f94d8d03be9919f6fa7b"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedMediumOblique.ttf",
       "sha1": "7cdd4fd39f5094fe5472ad20f696638b81b140f5"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedRegular.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedMediumOblique.woff",
+      "sha1": "b371c66298e608e690d3969a523a330a3212a6e9"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedMediumOblique.woff2",
+      "sha1": "5ba11f9c21f2624104254d34990ce2e2c576d3b9"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedRegular.eot",
+      "sha1": "a76db5df195f9284acbd958f3c499acd37385f95"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedRegular.ttf",
       "sha1": "3509d287fb2e00f3f005f11e584c3ea25ee4a2bf"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedRegularOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedRegular.woff",
+      "sha1": "4bcf08bf96fdd1d415426a2adac040d18bafb923"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedRegular.woff2",
+      "sha1": "b87e77aad1c433799bf015ddec6a94542c074f13"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedRegularOblique.eot",
+      "sha1": "fc008b5bd09fb4c6682fba4c750cb19afdb22921"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedRegularOblique.ttf",
       "sha1": "79202bdcbb5a7c68e8bda5f4e6a89712bbab892f"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedThin.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedRegularOblique.woff",
+      "sha1": "ffad4125d83b89debd6a247b7b3558626338a220"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedRegularOblique.woff2",
+      "sha1": "2c0ad464a7a7f8d28e5db45d87fb78df72a79bb6"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedThin.eot",
+      "sha1": "bb5a3b48a75dfc57011b35256fb80918ed81c32d"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedThin.ttf",
       "sha1": "f5d6398a49bb24d9bf2ba333c8024468704a5989"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedThinOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedThin.woff",
+      "sha1": "749e0535c037e1a46f60691c7d8afe38af4f7054"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedThin.woff2",
+      "sha1": "c1add2de5eb1dd369e1d5aaa3927bafd8245894f"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedThinOblique.eot",
+      "sha1": "3b664fabddae14b7ae6f689ca8613ef834ab5a61"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedThinOblique.ttf",
       "sha1": "a70fb0f9a2a761305cfb2bce03bcc37c38b3f802"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraBold.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedThinOblique.woff",
+      "sha1": "feea632044b8a87c0928933ef7c77c479bf5eaef"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedThinOblique.woff2",
+      "sha1": "6f89660d470c0f1a8752a49ba9a8cdfa58bb22ee"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraBold.eot",
+      "sha1": "9d8f00fc5b185942f5a11339f4847c9995b44fd4"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraBold.ttf",
       "sha1": "f01f52b06cdb24f7976259a515e14330fe65c4c4"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraBoldOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedUltraBold.woff",
+      "sha1": "d9bba18b011b1977883c00d67b8162c293255325"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraBold.woff2",
+      "sha1": "d1cc3af1615fcc3eef1bfe3983110ae5f5c10a6d"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraBoldOblique.eot",
+      "sha1": "52b1e38431380685cd2214a7218caafb1b5e337f"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraBoldOblique.ttf",
       "sha1": "719c2075732635f0d287209c4c276454562b5a1f"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraLight.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedUltraBoldOblique.woff",
+      "sha1": "907e10ff7386117931612dca94bd45c4fefd29b4"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraBoldOblique.woff2",
+      "sha1": "00dd81b25669d4e0e32dc6570035894dc8b6acfc"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraLight.eot",
+      "sha1": "690e7c572e537166f565d6cbfdc75dd3024ddc4d"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraLight.ttf",
       "sha1": "e73a6219c8fda9f7200eaac5089426821312864c"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-CondensedUltraLightOblique.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedUltraLight.woff",
+      "sha1": "3c896bb4b971445f1bc910655980146c7dfee4c3"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraLight.woff2",
+      "sha1": "6babf99e2114d5200d3c2afa058c309d85cb0654"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraLightOblique.eot",
+      "sha1": "719229192c6860d555c68da16e3d1cea68ce26c7"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraLightOblique.ttf",
       "sha1": "fb881abe5bd73d654f25dd78c8b5ca684684043f"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-Light.ttf",
+      "path": "fonts/GTWalsheimPro-CondensedUltraLightOblique.woff",
+      "sha1": "dca495ac06fac4112a883dfeb80217f82fc9d444"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-CondensedUltraLightOblique.woff2",
+      "sha1": "0ddc574bac21a197881ad53a304f62ab7c530b21"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Light.eot",
+      "sha1": "cd8df04ed62526d227c62d8d6855ca8a2ba32513"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Light.ttf",
       "sha1": "7dcbd11c3c5089e270ef91bdcf2a07bc370205e7"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-LightOblique.ttf",
+      "path": "fonts/GTWalsheimPro-Light.woff",
+      "sha1": "85d486ce1eae1d02a587d99e5927ed71122389d6"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Light.woff2",
+      "sha1": "52a580bb01294e4497e644128d129ca326d450ab"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-LightOblique.eot",
+      "sha1": "b9d96c89bc2d379950c78bda2424f0eb86cad947"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-LightOblique.ttf",
       "sha1": "be62fc94fafdff60a1b6af8bcae6dd43b8d9fa75"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-Medium.ttf",
+      "path": "fonts/GTWalsheimPro-LightOblique.woff",
+      "sha1": "9ee75b6ce9fcf35be64d5551a496a3b03e605cdb"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-LightOblique.woff2",
+      "sha1": "333cfc857ba493abf28e889c9d7ee8f9f82e8a41"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Medium.eot",
+      "sha1": "a5aee96495e8d71e20831bf1a1ed9c11a2a940be"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Medium.ttf",
       "sha1": "ad1877fb65fc6cc7e0f0f4a087c09842b9836f05"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-MediumOblique.ttf",
+      "path": "fonts/GTWalsheimPro-Medium.woff",
+      "sha1": "b1709c4922d7b88a444285df3568c2d837c1da69"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Medium.woff2",
+      "sha1": "3a356b674228bd47a7a1e116e645ad6f294a61fa"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-MediumOblique.eot",
+      "sha1": "7cdee2ba5ee6540eefa0c57bfda159912529e92a"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-MediumOblique.ttf",
       "sha1": "8827dc75bfd745fda574bf8ebaa7cae5e3f26a1e"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-Regular.ttf",
+      "path": "fonts/GTWalsheimPro-MediumOblique.woff",
+      "sha1": "67ef36103b7a97753894856c317aae0514ab99a2"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-MediumOblique.woff2",
+      "sha1": "890a403d3dceb4c414fc47a2dbce0546579b19fa"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Regular.eot",
+      "sha1": "57b3a86aae64514d44498044d8ccc5e45b3601b7"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Regular.ttf",
       "sha1": "03b3aec5e961aa91f360aac8d990d456bbca0b5a"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-RegularOblique.ttf",
+      "path": "fonts/GTWalsheimPro-Regular.woff",
+      "sha1": "e13bc8af1c17ff043d3211c521b3de85151e7351"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Regular.woff2",
+      "sha1": "60990de42cc533755f264773a9a298edef32c080"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-RegularOblique.eot",
+      "sha1": "00c24da8ee5ea5341fee393078d61ce1758e3589"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-RegularOblique.ttf",
       "sha1": "6e919c6ee1278062ec69d93dc09ffb8642d73572"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-Thin.ttf",
+      "path": "fonts/GTWalsheimPro-RegularOblique.woff",
+      "sha1": "ede65dcf8386d8c458e14140d38b27a3af914559"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-RegularOblique.woff2",
+      "sha1": "4d05397d4740cbd8c1ab6dcbc99a5ea04f24474f"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Thin.eot",
+      "sha1": "23c2afb8f902bd6737aa5c22001deae27465cec2"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Thin.ttf",
       "sha1": "6b32c841749c0dc4f278ac21527cd5fcdac31253"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-ThinOblique.ttf",
+      "path": "fonts/GTWalsheimPro-Thin.woff",
+      "sha1": "40a404078688c1efb89b2141b21ca6c0834eed4a"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-Thin.woff2",
+      "sha1": "e41271d31913837f44e3655f5b5f54e4f0030def"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-ThinOblique.eot",
+      "sha1": "8da94cf04c371a4c8f8d83f50cda02a9e3cb39a8"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-ThinOblique.ttf",
       "sha1": "05862db34a882310984c4b258cab8198b58b2124"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-UltraBold.ttf",
+      "path": "fonts/GTWalsheimPro-ThinOblique.woff",
+      "sha1": "85993f76df974c65bea02a17f2dc42bb6a220bdc"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-ThinOblique.woff2",
+      "sha1": "403ad1736381f8e300a4bafd2b46a3a8be04568d"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraBold.eot",
+      "sha1": "02e6f6e322fa75cca8e2a8b0c64b10e76a9e6639"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraBold.ttf",
       "sha1": "7011e2410ba4f3a1e5636f8e20144d8aa3ce978c"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-UltraBoldOblique.ttf",
+      "path": "fonts/GTWalsheimPro-UltraBold.woff",
+      "sha1": "6094a5e481d8c81ff1be4c71922c271ed6f25224"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraBold.woff2",
+      "sha1": "33693e0e26853424e9d83958d92512726c81ea8e"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraBoldOblique.eot",
+      "sha1": "f5501d28fd54bbc4e21260fdbcac8376e155d0bd"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraBoldOblique.ttf",
       "sha1": "b000df6da668f32bdc6a032240276e0ce12f455d"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-UltraLight.ttf",
+      "path": "fonts/GTWalsheimPro-UltraBoldOblique.woff",
+      "sha1": "b878cea68e01b871bb0c595e8846108afe6690e7"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraBoldOblique.woff2",
+      "sha1": "3ac8676705f439c9426b30d62948d6aa25370b6f"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLight.eot",
+      "sha1": "0f9642582d3bfc48a79a63b49ad93188c12914a7"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLight.ttf",
       "sha1": "50bfb8c64d722dcb5b18acef3d60b6a54989186e"
     },
     {
-      "path": "src/assets/fonts/GTWalsheimPro-UltraLightOblique.ttf",
+      "path": "fonts/GTWalsheimPro-UltraLight.woff",
+      "sha1": "44f0a8423058230a3ad0ff87ee98a84821cc4f52"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLight.woff2",
+      "sha1": "eade5f00a269913b790a4ce1d41866a7937b235f"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLightOblique.eot",
+      "sha1": "7bf8b79fd742cd99dd0907c6306528a11bf1db83"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLightOblique.ttf",
       "sha1": "585ebc7a4bddd683e211e77d290e417711f443cb"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLightOblique.woff",
+      "sha1": "ed682f4bf6e16e9d854881acfc7974a1066681c0"
+    },
+    {
+      "path": "fonts/GTWalsheimPro-UltraLightOblique.woff2",
+      "sha1": "50c23b821cf7fdb1bd105aa65ad3275de8d409c1"
+    },
+    {
+      "path": "fonts/stylesheet.css",
+      "sha1": "3e652be315709e6ea2cfb6c9e8754a6c80c2a94d"
     }
   ]
 }

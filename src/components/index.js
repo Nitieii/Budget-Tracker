@@ -2,4 +2,7 @@
 import Header from './layouts/Header';
 import MainLayout from './layouts/MainLayout';
 
-export {Header, MainLayout};
+// Date Slider
+import DateSlider from './DateSlider';
+
+export {Header, MainLayout, DateSlider};
