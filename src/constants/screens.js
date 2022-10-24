@@ -1,8 +1,15 @@
-import {Transaction, Budget, Stat, Profile} from '~/screens';
+import {
+  Transaction,
+  TransactionDetails,
+  Budget,
+  Stat,
+  Profile,
+} from '~/screens';
 
 const screensName = {
   // Transactions Group
   transaction: 'Transaction',
+  transactionDetails: 'TransactionDetails',
   budget: 'Budget',
   stat: 'Stat',
 
@@ -14,11 +21,20 @@ const navigateAuth = [
   {
     name: screensName.transaction,
     component: Transaction,
+  },
+  {
+    name: screensName.transactionDetails,
+    component: TransactionDetails,
+  },
+  {
     name: screensName.budget,
     component: Budget,
+  },
+  {
     name: screensName.stat,
     component: Stat,
-
+  },
+  {
     name: screensName.profile,
     component: Profile,
   },
