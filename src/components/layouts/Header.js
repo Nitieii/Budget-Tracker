@@ -5,13 +5,26 @@ import {hasNotch} from 'react-native-device-info';
 
 import {FONTS, SIZES, COLORS} from '~/constants';
 
-import {DateSlider} from '~/components';
+import {DateSlider, Calendar} from '~/components';
+
+import {useDate} from '~/hooks';
 
 const Header = props => {
-  const {title, rightComponent, titleStyle, containerStyle} = props;
+  const {
+    title,
+    rightComponent,
+    leftComponent,
+    titleStyle,
+    containerStyle,
+    slider,
+  } = props;
+
+  const {searchMode} = useDate();
+
   return (
-    <View style={styles.parentContainer(COLORS, SIZES)}>
+    <View style={styles.parentContainer(COLORS, SIZES, slider)}>
       <View style={[styles.container(hasNotch, SIZES), containerStyle]}>
+        <View style={{marginRight: SIZES.radius}}>{leftComponent}</View>
         <View
           style={{
             flex: 5,
@@ -30,8 +43,7 @@ const Header = props => {
         <View style={{flex: 1, alignItems: 'flex-end'}}>{rightComponent}</View>
       </View>
 
-      {/* Calendar View */}
-      <DateSlider />
+      {!slider ? null : slider && !searchMode ? <DateSlider /> : <Calendar />}
     </View>
   );
 };
@@ -39,9 +51,8 @@ const Header = props => {
 export default Header;
 
 const styles = StyleSheet.create({
-  parentContainer: (COLORS, SIZES) => ({
-    backgroundColor: COLORS.white,
-    height: 190,
+  parentContainer: (COLORS, SIZES, slider) => ({
+    backgroundColor: slider ? COLORS.white : 'transparent',
 
     borderBottomRightRadius: SIZES.padding,
     borderBottomLeftRadius: SIZES.padding,
@@ -53,6 +64,7 @@ const styles = StyleSheet.create({
     },
     shadowOpacity: 0.5,
     shadowRadius: 4,
+    zIndex: 100,
   }),
 
   container: (hasNotch, SIZES) => ({
